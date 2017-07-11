@@ -1,5 +1,5 @@
  [
-   { 
+ { 
     "author" : "SnowAxe", 
     "name" : "GreenyTheme", 
     "keyWords" : "keyword1,keyword2", 
@@ -10,5 +10,5 @@
     "previewUrl" : "https://raw.githubusercontent.com/SnowAxe/GreenyTheme/master/preview.jpg", 
     "creationDate" : "11/07/2017", 
     "modificationDate" : "11/07/2017"  
-  },
-   ]
+  }
+  ]
