@@ -1,4 +1,5 @@
-  { 
+ [
+   { 
     "author" : "SnowAxe", 
     "name" : "GreenyTheme", 
     "keyWords" : "keyword1,keyword2", 
@@ -10,3 +11,4 @@
     "creationDate" : "11/07/2017", 
     "modificationDate" : "11/07/2017"  
   },
+   ]
